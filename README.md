@@ -1,9 +1,4 @@
-# Visualizing_Data_Leaflet
-Unit 17 Homework Assignment using Leaflet
-
-
-
-
+# Project web page: https://britalvr.github.io/Visualizing_Data_Leaflet/
 
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
